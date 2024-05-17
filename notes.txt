@@ -1,0 +1,23 @@
+npm init -y
+"type": "module",
+
+node --watch server.js
+
+npm install fastify
+
+install> REST Client
+
+npm install posgres
+
+create file .env 
+{
+
+PGHOST='ep-square-frost-a5w1lxiy.us-east-2.aws.neon.tech'
+PGDATABASE='node'
+PGUSER='node_owner'
+PGPASSWORD='YvF9MN7qZuSH'
+ENDPOINT_ID='ep-square-frost-a5w1lxiy'
+
+}
+
+npm i dotenv -D
