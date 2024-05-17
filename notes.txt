@@ -3,7 +3,7 @@ npm init -y
 
 node --watch server.js
 
-npm install fastify
+npm install 
 
 install> REST Client
 
