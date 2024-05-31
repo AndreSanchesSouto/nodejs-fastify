@@ -21,4 +21,4 @@ ENDPOINT_ID='ep-square-frost-a5w1lxiy'
 }
 
 npm i dotenv -D
- RENDER SITE 
+ RENDER: SITE 
